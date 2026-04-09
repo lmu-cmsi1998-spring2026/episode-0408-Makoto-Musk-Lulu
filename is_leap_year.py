@@ -1,3 +1,4 @@
+
 #checks if a year is a leap year 
 def is_leap_year(year: int ) -> bool:
     if year % 4 != 0:
